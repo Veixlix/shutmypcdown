@@ -16,7 +16,7 @@
 ## 📥 Download
 
 **Grab the latest executable release from:**  
-👉 [https://github.com/Veixlix/shutmypcdown/releases](https://github.com/Veixlix/shutmypcdown/releases)
+👉 [releases](https://github.com/Veixlix/shutmypcdown/releases)
 
 No Python installation needed — just download and run.
 
