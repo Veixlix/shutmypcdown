@@ -1,6 +1,6 @@
 # 💻 Shutdown Scheduler - shutmypcdown
 
- Easily schedule or cancel system shutdowns using an calendar interface. Hover over marked days to see scheduled shutdown times, made on request to give absolute time/date rather than seconds/minutes/hours
+ Easily schedule or cancel system shutdowns using an calendar interface. Hover over marked days to see scheduled shutdown times, made on request to give absolute time/date rather than seconds/minutes/hours.	I have no intention of maintaining this 
 
 ---
 
